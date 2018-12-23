@@ -2,7 +2,7 @@
 
 My name is scribe anologous to scrolls. 
 What I scribe about is electronics. 
-Computer systems and the like. 
+Computer Systems and the like. 
 
 The changes that I have made:
 is to delete the initial this is just another repository.
