@@ -1,2 +1,9 @@
 # hello-world
-just another repository
+
+My name is scribe anologous to scrolls. 
+What I scribe about is electronics. 
+Computer system and the like. 
+
+The changes that I have made:
+is to delete the initial this is just another repository.
+To my name is and a bit about me.
